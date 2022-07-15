@@ -1,0 +1,5 @@
+{
+    "WEBDAV_PROVIDER": "https://webdav.yandex.ru",
+    "CLIENT_USERNAME": "username",
+    "CLIENT_PASSWORD": "password"
+}

@@ -1,0 +1,4 @@
+dist
+secrets.json
+.vscode
+node_modules
